@@ -1,6 +1,6 @@
 let xp = (10001)
-let rank = ""
 let nome = "Nicolas"
+let rank
 
 if (xp <= 1000) {
     rank = "Ferro"
